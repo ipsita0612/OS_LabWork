@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/wait.h>
-
 int isPrime(int n)
 {
     if (n < 2)
